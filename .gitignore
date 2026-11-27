@@ -1,0 +1,12 @@
+# Vagrant / VirtualBox
+.vagrant/
+*.vdi
+*.vmdk
+*.box
+*.log
+
+# tajné údaje nikdy do Gitu
+.env
+secrets/
+*-password
+zabbix-secrets/
