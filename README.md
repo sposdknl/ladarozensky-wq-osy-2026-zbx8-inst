@@ -11,7 +11,7 @@ Reprodukovatelná instalace **Zabbix serveru 8.0 LTS** s databází **MariaDB**,
 | CPU / RAM | 3 CPU / 3072 MB |
 | Web Zabbixu | **http://127.0.0.1:8080/zabbix/** (i `http://127.0.0.1:8080/` přesměruje) |
 | SSH | `vagrant ssh` (port 2206 jen na `127.0.0.1`) |
-| Název serveru v záhlaví | **Lada Rozenský · SPOŠ DK · Zabbix 8.0** |
+| Název serveru v záhlaví | **Ladislav Rozenský · SPOŠ DK · Zabbix 8.0** |
 
 ## Předpoklady
 
