@@ -1,6 +1,6 @@
 # Zabbix 8.0 LTS na Debianu 13 – Vagrant + shell skripty
 
-**Autor:** Lada Rozenský · SPOŠ DK · předmět OSY, 2026
+**Autor:** Ladislav Rozenský · SPOŠ DK · předmět OSY, 2026
 
 Reprodukovatelná instalace **Zabbix serveru 8.0 LTS** s databází **MariaDB**, webovým rozhraním na **Apache** a **Zabbix Agentem 2** ve virtuálním stroji **Debian 13** (`bento/debian-13`). Vše proběhne automaticky po `vagrant up`, bez ručních zásahů ve VM a bez PHP wizardu.
 
